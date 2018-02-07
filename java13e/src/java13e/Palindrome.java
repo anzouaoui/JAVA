@@ -14,7 +14,6 @@ public class Palindrome {
 				System.out.println(mot + " n'est pas un palindrome");
 			}
 		}
-
 	}
 
 }
